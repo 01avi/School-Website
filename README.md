@@ -1,6 +1,6 @@
-# ABC School Website
+# School Website
 
-Welcome to the ABC School website project. This is a React-based web application for showcasing the school's information, events, and contact details.
+Welcome to the School website project. This is a React-based web application for showcasing the school's information, events, and contact details.
 
 ## Table of Contents
 
