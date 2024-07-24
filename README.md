@@ -75,5 +75,3 @@ Here are some screenshots of the application:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this `README.md` file according to your project's specific details and needs. If you need to add more sections or details, just let me know!
