@@ -13,7 +13,7 @@ Welcome to the School website project. This is a React-based web application for
 
 ## Project Description
 
-This project is a React web application designed for ABC School. It includes a homepage with a carousel of events, a contact page with a form, and various other sections to provide information about the school.
+This project is a React web application designed for School. It includes a homepage with a carousel of events, a contact page with a form, and various other sections to provide information about the school.
 
 ## Installation
 
