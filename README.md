@@ -19,12 +19,12 @@ This project is a React web application designed for ABC School. It includes a h
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/abc-school-website.git
+    git clone https://github.com/your-username/school-website.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd abc-school-website
+    cd school-website
     ```
 
 3. Install the dependencies:
@@ -59,10 +59,16 @@ Provides contact information and a form for users to submit inquiries.
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](https://example.com/path-to-homepage-screenshot.jpg)
+![Home Page](images/a.png)
 
 ### Contact Page
-![Contact Page](https://example.com/path-to-contactpage-screenshot.jpg)
+![Contact Page](images/d.png)
+
+### About
+![About Page](images/b.png)
+
+### Gallary
+![Gallary Page](images/c.png)
 
 ## License
 
